@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ZmieniaczTla</string>
+    <string-array name="texts">
+        <item>dzien 1</item>
+        <item>dzien 2</item>
+        <item>dzien 3</item>
+    </string-array>
+</resources>
